@@ -1,0 +1,31 @@
+body{
+    margin:20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: hsl(30, 50%, 97%);
+}
+.logo{
+ width: 150px;
+ height: 150px;
+ border-radius: 100%;
+ 
+}
+.card{
+    padding: 20px;
+    display:flex;
+    justify-content:space-around; 
+    width: 400px;
+    margin:0 auto;
+    text-align:center;
+    color:#2b2839;
+    background: #cfff74;
+    border-bottom: 7px solid #2f3a1d;
+   
+}
+.border-blue{
+ border:1px dotted hsl(197, 90%, 63%);
+}
+.card a{
+    text-decoration: none;
+    color: #2b2839; 
+    text-align:center;
+}
